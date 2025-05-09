@@ -1,4 +1,4 @@
 ### Développeurs :
-  Neskuik_
-  wMidas
-  AstraxxTv
+- Neskuik_
+- wMidas
+- AstraxxTv
